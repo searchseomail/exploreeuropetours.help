@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://exploreeuropetours.help/sitemap.txt
